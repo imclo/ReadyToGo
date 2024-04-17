@@ -75,8 +75,8 @@ function App() {
           >
             <p>
               {switch1 === true && switch2 === true && switch3 === true
-                ? "GO"
-                : "NO WAY"}
+                ? "GO!"
+                : "NO WAY!"}
             </p>
           </div>
         </div>
